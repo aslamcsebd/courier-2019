@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+@import url(normalize.css);
+@import "customhover.css";
+@import "animate.css";
+@import "hover.css";
+@import "commonStyle.css";
+
+html{
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  background-color: #34495e;
+}
+
+/*header start hear*/
+#header{
+  margin-top: 50px;
+  background-color: pink;
+}
+#header ul li{
+  padding: 2px;
+  list-style-type: none;
+}
+#header .row{
+ padding: 10px;
+ }
+#header .col-3{
+ background-color: #3498db;
+ }

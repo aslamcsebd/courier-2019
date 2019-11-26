@@ -1,0 +1,8 @@
+
+.main-panel , form ,table, td{
+	padding: 5px;
+}
+
+table{
+	border: 2px solid gray;
+}
